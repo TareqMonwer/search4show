@@ -1,0 +1,14 @@
+.series-list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.series-list li {
+    border: 1px solid #333333;
+    margin: 10px auto;
+    width: 200px;
+}
